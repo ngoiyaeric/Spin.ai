@@ -6,9 +6,3 @@ This is an automated DJ ai prompted with natural language.
 
 System Design: 
 Playlist Data Extraction. Playlist data extension & Protocol
-
-Front end:
-
-Backend:
-
-Iaas:
