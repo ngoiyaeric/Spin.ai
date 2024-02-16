@@ -11,7 +11,4 @@ Road Map:
 
 Playlist Data Extraction: 
 
-
-Clone Repo: 
-pip install dependancies
   
